@@ -1,0 +1,2 @@
+git remote add origin https://github.com/madaan123/MyAlgorithms.git
+git push -u origin master
